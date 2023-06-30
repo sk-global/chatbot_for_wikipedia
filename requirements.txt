@@ -55,7 +55,7 @@ numexpr==2.8.4
 numpy==1.24.1
 openai==0.27.8
 openapi-schema-pydantic==1.2.4
-packaging @ https://files.pythonhosted.org/packages/ed/35/a31aed2993e398f6b09a790a181a7927eb14610ee8bbf02dc14d31677f1c/packaging-23.0-py3-none-any.whl#sha256=714ac14496c3e68c99c29b00845f7a2b85f3bb6f1078fd9f72fd20f0570002b2
+packaging==20.9
 pandas==2.0.2
 parso @ https://files.pythonhosted.org/packages/05/63/8011bd08a4111858f79d2b09aad86638490d62fbf881c44e434a6dfca87b/parso-0.8.3-py2.py3-none-any.whl#sha256=c001d4636cd3aecdaf33cbb40aebb59b094be2a74c556778ef5576c175e19e75
 passlib @ https://files.pythonhosted.org/packages/3b/a4/ab6b7589382ca3df236e03faa71deac88cae040af60c071a78d254a62172/passlib-1.7.4-py2.py3-none-any.whl#sha256=aa6bca462b8d8bda89c70b382f0c298a20b5560af6cbfa2dce410c0a2fb669f1
