@@ -13,11 +13,12 @@ if 'response' not in st.session_state:
 def send_click():
     
     query_engine = index.as_query_engine(service_context=service_context, \
-                                         verbose=True, response_mode="compact")
+                                         verbose=True, \
+                                         response_mode="compact")
     st.session_state.response = query_engine.query(st.session_state.prompt)
 
 index = None
-st.title("Chatbot for Wikipedia")
+st.title("Chatbot for Wikipedia!!!")
 
 sidebar_placeholder = st.sidebar.container()
 user_input = st.text_input("""Enter the wikipedia page 
